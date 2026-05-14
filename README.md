@@ -1,7 +1,7 @@
 # The Marginal Cost of Information When Is Enough Data Enough for Time Series Analytics
 
-**Published:** 2025-02-19
-**Medium:** [https://medium.com/@kyle-t-jones/the-marginal-cost-of-information-when-is-enough-data-enough-for-time-series-analytics-a0e8c2a5e2b0](https://medium.com/@kyle-t-jones/the-marginal-cost-of-information-when-is-enough-data-enough-for-time-series-analytics-a0e8c2a5e2b0)
+Published: 2025-02-19
+Medium: [https://medium.com/@kyle-t-jones/the-marginal-cost-of-information-when-is-enough-data-enough-for-time-series-analytics-a0e8c2a5e2b0](https://medium.com/@kyle-t-jones/the-marginal-cost-of-information-when-is-enough-data-enough-for-time-series-analytics-a0e8c2a5e2b0)
 
 ## About
 
