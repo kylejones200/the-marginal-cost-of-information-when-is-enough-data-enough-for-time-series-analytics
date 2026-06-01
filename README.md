@@ -11,14 +11,7 @@ Economists describe this phenomenon as the marginal cost of information. Just as
 
 The theory of optimal stopping provides a structured way to approach this problem. In many decision-making scenarios, we must balance exploration (gathering more information) with exploitation (acting on what we already know). The famous secretary problem is a classic example: Imagine you are hiring a secretary and must decide whether to hire a candidate immediately or keep searching, knowing that once you reject someone, you cannot return to them. Mathematically, the optimal strategy suggests reviewing about 37% of the candidates without hiring, then selecting the first one who is better than all previous ones.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
